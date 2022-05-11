@@ -1,2 +1,4 @@
 This is a Git 101 intro session by qurat.
 In collaboration with Baba Ammar.
+print('Hello whtz up guyz')
+import seaborn as sns
